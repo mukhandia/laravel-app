@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Nunito', sans-serif;
+}
+.p-4{
+    padding: 1rem;
+}
+nav a{
+    padding:0.5rem;
+}
+form .form-error{
+    color: red;
+    font-weight: bold;
+    font-size: smaller;
+}
